@@ -1,0 +1,3 @@
+{
+  "startCommand": "clear && npm start"
+}

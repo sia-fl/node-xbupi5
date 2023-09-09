@@ -1,0 +1,14 @@
+{
+  "name": "tsx-starter",
+  "private": true,
+  "scripts": {
+    "start": "tsx index.cjs"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.2",
+    "tsx": "^3.12.1"
+  },
+  "dependencies": {
+    "formidable": "^3.5.1"
+  }
+}
